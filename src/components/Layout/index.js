@@ -15,7 +15,8 @@ export default function Layout() {
       <Header />
       <Nav>
         <Link to="/">Home</Link>
-        <Link to="/post">Posts</Link>
+        <Link to="/posts">Posts</Link>
+        <Link to="/posts/13123124">Post</Link>
       </Nav>
       <Routes />
       <Footer />
