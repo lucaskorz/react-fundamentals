@@ -19,7 +19,7 @@ export default function Layout() {
         <Link to="/posts/13123124">Post</Link>
       </Nav>
       <Routes />
-      <Footer />
+      
     </BrowserRouter>
   );
 }
